@@ -1,2 +1,2 @@
-# stellar-lives
-恒星电视插件
+# stellar-EmbyClient
+恒星emby插件
