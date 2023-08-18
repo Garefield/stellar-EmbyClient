@@ -19,9 +19,9 @@ class embyplugin(StellarPlayer.IStellarPlayerPlugin):
     def __init__(self,player:StellarPlayer.IStellarPlayer):
         super().__init__(player)
         self.embyClient = emby_client()
-        self.host = "http://111.emby999.com:8096"
-        self.username = "RLZ025"
-        self.password = "654321"
+        self.host = ""
+        self.username = ""
+        self.password = ""
         self.mainview = []
         self.moviedatas = {}
         self.pagedatas = {}
